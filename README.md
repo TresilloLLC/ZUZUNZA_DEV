@@ -121,7 +121,7 @@
  - 레퍼런스 https://www.zuzunza.com/?sharhene777
 ### 방명록
  - 말 그대로 방명록입니다. 차단된 회원 제외하고 모든 회원이 작성 가능합니다. 
- - 레퍼런스
+ - 레퍼런스 https://www.zuzunza.com/myhome/guestbook.php?mb_id=sharhene777
 ### 블로그
  - 블로그 기능이 있습니다. 이곳에 게시글 작성이 가능합니다.
  - 블로그는 댓글을 달 수 있는 등, 일반적인 게시판과 동일한 역할을 합니다.
